@@ -14,7 +14,7 @@ a {
 .banniere {
 	height: 350px;
 	width: cover;
-	background-image: url('Images/banner.jpg');
+	background-image: url('images/banner.jpg');
 	background-size: cover;
 	background-position: center;
 	background-color: rgba(150 150 150 0.8);
